@@ -3,7 +3,6 @@ Laboratorio 4 - Teoria de la Computacion
 Construccion de AFN por el algoritmo de Thompson a partir de una expresion
 regular, dibujo del automata y simulacion sobre una cadena de entrada.
 
-Autor: Diego (apoyo generado con Claude)
 """
 
 from graphviz import Digraph
