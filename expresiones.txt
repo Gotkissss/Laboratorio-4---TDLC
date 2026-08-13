@@ -1,0 +1,4 @@
+(a*|b*)+ ; aaabbb
+((eps|a)|b*)* ; ab
+(a|b)*abb(a|b)* ; babba
+0?(1?)?0* ; 0100
